@@ -17,7 +17,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Aircraft\" />
+      <Folder Include="Aircraft\Configuration\" />
+      <Folder Include="Aircraft\Data\" />
+      <Folder Include="Aircraft\FDE\" />
+      <Folder Include="Aircraft\Options\" />
     </ItemGroup>
 
 </Project>
